@@ -98,7 +98,7 @@ git clone https://github.com/qijiezhao/M2Det.git
 ```Shell
 sh make.sh
 ```
-
+For CENTOS, you can install opencv for python by using "pip install opencv-python"
 - Prepare dataset (e.g., VOC, COCO), refer to [sss.pytorch](https://github.com/amdegroot/ssd.pytorch) for detailed instructions.
 
 
